@@ -12,6 +12,8 @@ Run `rubocop -a` to autofix lint violations.
 
 ## To start a new project from this template
 
-Create a zip without git tracking.
-git archive --format zip --output ~/Desktop/ruby_template.zip master
+Create a zip without git tracking:
+
+`git archive --format zip --output ~/Desktop/codility_template.zip master`
+
 Extract the zipfile into the desired project location.
