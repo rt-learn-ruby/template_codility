@@ -14,6 +14,6 @@ Run `rubocop -a` to autofix lint violations.
 
 Create a zip without git tracking:
 
-`git archive --format zip --output ~/Desktop/codility_template.zip master`
+`git archive --format zip --output ~/Desktop/template_codility.zip master`
 
 Extract the zipfile into the desired project location.
